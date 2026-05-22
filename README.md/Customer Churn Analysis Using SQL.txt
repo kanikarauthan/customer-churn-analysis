@@ -1,0 +1,41 @@
+# Customer Churn Analysis Using SQL & Power BI
+
+## Project Overview
+This project analyzes customer churn patterns for a telecom company to identify why customers leave and suggest retention strategies.
+
+## Business Problem
+A telecom company was experiencing customer churn and wanted to identify:
+- Why customers leave
+- High-risk customer segments
+- Major churn drivers
+
+## Tools Used
+- SQL
+- Power BI
+- Excel
+
+## Key Analysis Performed
+- Churn Rate Analysis
+- Contract Type Analysis
+- Tech Support Analysis
+- Payment Method Analysis
+- Monthly Charges Analysis
+- Customer Tenure Analysis
+- Root Cause Analysis
+
+## Key Insights
+- Churn Rate: 26.58%
+- Month-to-month customers had highest churn
+- Customers without tech support churned more
+- Electronic check users had highest churn
+- Higher monthly charges were linked with churn
+
+## Business Recommendations
+- Encourage long-term contracts
+- Improve customer support quality
+- Improve onboarding for new customers
+- Review pricing strategy
+
+## Dashboard Preview
+Page 1: Executive Dashboard  
+Page 2: Root Cause Analysis
