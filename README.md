@@ -79,8 +79,6 @@ Evaluate pricing plans for customers with higher monthly charges and consider of
 
 Examine the customer experience associated with electronic check payments and explore whether payment convenience, billing issues, or other factors contribute to churn.
 
-*Note: These recommendations are based on observed churn patterns. Further investigation would be required to establish the underlying causes of customer churn.*
-
 ## 📊 Dashboard Preview
 
 The Power BI dashboard consists of two pages:
@@ -97,20 +95,18 @@ Explores potential churn drivers, including contract types, technical support av
 
 ## 📁 Project Structure
 
-```text
 Customer-Churn-Analysis/
 │
-├── README.md
-├── SQL/
-│   └── customer_churn_analysis.sql
 ├── Dashboard/
 │   └── customer_churn_dashboard.pbix
+├──Customer_Churn_Dataset.csv 
 └── Screenshots/
     ├── executive_dashboard.png
     └── root_cause_analysis.png
-```
+│──SQL/
+  └── customer_churn_analysis.sql
+├── README.md
 
-*Note: Update the folder and file names to match the actual structure of your GitHub repository.*
 
 ## 🎓 Skills Demonstrated
 
@@ -128,8 +124,6 @@ Customer-Churn-Analysis/
 This project demonstrates how SQL and Power BI can be used to analyze customer behavior, identify high-churn customer segments, and support data-driven retention strategies.
 
 It showcases the application of data analytics to a real-world business problem, connecting analytical findings with practical business recommendations.
-
----
 
 **Author:** Kanika
 **Domain:** Business Analytics | Data Analytics
